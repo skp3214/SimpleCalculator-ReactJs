@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-[![FoodDeliveryWebsite](https://img.shields.io/badge/Click_Here-Welcome_To_SimpleCalculator-wheat)](https://skp3214.github.io/SimpleCalculator-Reactjs/)
+[![SimpleCalcWebsite](https://img.shields.io/badge/Click_Here-Welcome_To_SimpleCalculator-wheat)](https://skp3214.github.io/SimpleCalculator-Reactjs/)
+
+# Website Preview
+![image](https://github.com/skp3214/SimpleCalculator-Reactjs/assets/95349420/f24d14e3-1fe1-4a66-b4a1-e5c94576c50a)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
